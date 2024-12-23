@@ -1,3 +1,4 @@
+from datetime import *
 print("main")
+print(datetime.now())
 
-print("date:23/12/2024")
